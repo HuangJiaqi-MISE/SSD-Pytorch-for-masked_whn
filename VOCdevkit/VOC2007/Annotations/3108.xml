@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>3108.jpg</filename>
+	<path>C:\Users\HUANG JIAQI\Desktop\YOLO_Mask\score\images\train\3108.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>704</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>389</xmin>
+			<ymin>171</ymin>
+			<xmax>544</xmax>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>685</xmin>
+			<ymin>393</ymin>
+			<xmax>838</xmax>
+			<ymax>521</ymax>
+		</bndbox>
+	</object>
+</annotation>

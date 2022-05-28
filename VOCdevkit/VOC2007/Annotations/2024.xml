@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>2024.jpg</filename>
+	<path>C:\Users\HUANG JIAQI\Desktop\YOLO_Mask\score\images\train\2024.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>251</width>
+		<height>251</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>106</ymin>
+			<xmax>187</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+</annotation>
